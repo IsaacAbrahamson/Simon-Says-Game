@@ -14,7 +14,7 @@ var series = 0;
 
 // sounds
 var fail = new Audio('sounds/no.mp3');
-var intro = new Audio('sounds/intro.wav');
+var intro = new Audio('sounds/intro.mp3');
 var context = new AudioContext;
 var note = context.createOscillator();
 note.start(0);

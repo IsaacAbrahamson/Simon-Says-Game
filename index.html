@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Simon Says Game</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <div id="container">
+    <div id="scoreboard">
+      <div id="logo">Simon<span class="exponent">®</span></div>
+      <div id="menu">
+        <div class="score-box score-box-lrg">
+          <div id="score">
+            <h6 class="off">--</h6>
+          </div>
+        </div>
+        <div class="score-box">
+          <div class="middle center">
+            <div class="center light hidden"></div>
+            <div id="start" class="center menu-btn"></div>
+            <div class="label">Start</div>
+          </div>
+        </div>
+        <div class="score-box">
+          <div class="middle center">
+            <div class="center light"></div>
+            <div id="strict" class="center menu-btn"></div>
+            <div class="label">Strict</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="buttons">
+      <div class="simon-row">
+        <div class="simon-btn" id="green"></div>
+        <div class="simon-btn" id="red"></div>
+      </div>
+      <div class="simon-row">
+        <div class="simon-btn" id="blue"></div>
+        <div class="simon-btn" id="yellow"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/jquery.js"></script>
+  <script src="js/tinycolor.js"></script>
+  <script src="js/index.js"></script>
+</body>
+
+</html>

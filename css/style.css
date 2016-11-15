@@ -162,10 +162,12 @@
 
 #start {
   background-color: red;
+  cursor: pointer;
 }
 
 #strict {
   background-color: yellow;
+  cursor: pointer;
 }
 
 .label {

@@ -3,4 +3,4 @@ This is the first version of the game I made for freeCodeCamp. I finished it in 
 
 #### You can view my lastest improved remake of the Simon game [here](https://github.com/IsaacAbrahamson/Simon/).
 
-View this game at [https://isaacabrahamson.github.io/Old-Simon-Says/](https://isaacabrahamson.github.io/Old-Simon-Says/).
+You can play this original version at [https://isaacabrahamson.github.io/Old-Simon-Says/](https://isaacabrahamson.github.io/Old-Simon-Says/).

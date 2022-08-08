@@ -4,6 +4,9 @@ Fully-Functional Simon Says Game
 
 https://simon.iabrahamson.com
 
+![image](https://user-images.githubusercontent.com/17521691/183326231-ffd0e79c-e791-4f29-a414-95830d29ea4f.png)
+
+
 ## Overview
 
 Created for freeCodeCamp challenge in 2016.
